@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: Merlot
+theme: jekyll-theme-merlot
 
 # Name of your site (displayed in the header)
 name: learningasigoxyz
