@@ -1,3 +1,9 @@
+
+---
+title: "R Markdown test"
+layout: post
+---
+
 R Markdown
 ----------
 
@@ -25,7 +31,7 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](2020-10-17-test-rmarkdown_files/figure-markdown_strict/pressure-1.png)
+![](/images/pressure-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
