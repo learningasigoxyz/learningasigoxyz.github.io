@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Random thoughts and blurbs from an amateur data enthusiast with a focus on insurance and practical applications of predictive analytics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email tbd](mailto:placeholder@domain.com)
